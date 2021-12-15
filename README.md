@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kamran, To be Data Scientist .🚀</div>  
+### <div align="center">I'm Kamran, Data Scientist .🚀</div>  
   
 
 - 🔭 I’m currently Studying in Imarticus learning   
